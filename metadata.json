@@ -1,0 +1,6 @@
+{
+  "name": "GR Presença Digital",
+  "description": "Presença Digital Profissional e Acessível para Pequenos Negócios e Profissionais Autônomos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
