@@ -13,10 +13,14 @@ export const Portfolio: React.FC = () => {
 
   // Map items to image source or high-end UI design preview
   const getImageSource = (fallbackKey: string) => {
-    if (fallbackKey === 'port1') return imgLashBeauty;
-    if (fallbackKey === 'port2') return imgHairSalon;
-    if (fallbackKey === 'port5') return imgBarbershop;
-    return null;
+  if (fallbackKey === 'port1') return imgLashDesigner;
+  if (fallbackKey === 'port2') return imgSalaoDeBeleza;
+  if (fallbackKey === 'port3') return imgMaquiadora;
+  if (fallbackKey === 'port4') return imgEsteticista;
+  if (fallbackKey === 'port5') return imgBarbearia;
+  if (fallbackKey === 'port6') return imgNailDesigner;
+  return null;
+};
   };
 
   return (
