@@ -1,6 +1,6 @@
 import React from 'react';
 import { getWhatsAppUrl } from '../data/siteData.ts';
-import imgAboutWorkspace from '../assets/images/about_workspace_desk_1791040834006.jpg';
+import imgAboutWorkspace from '../assets/images/src/assets/images/fundadora.webp.webp';
 
 export const AboutSection: React.FC = () => {
   return (
