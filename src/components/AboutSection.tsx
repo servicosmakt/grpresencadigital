@@ -1,6 +1,6 @@
 import React from 'react';
 import { getWhatsAppUrl } from '../data/siteData.ts';
-import imgAboutWorkspace from '../assets/fundadora.jpg';
+import imgAboutWorkspace from '../assets/images/fundadora.jpg';
 
 export const AboutSection: React.FC = () => {
   return (
