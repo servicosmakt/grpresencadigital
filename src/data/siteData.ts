@@ -286,7 +286,7 @@ export const PACKAGES: PackageItem[] = [
       "Site Exclusivo e Responsivo de Alto Padrão",
       "Cartão Digital Interativo",
       "Divulgação Local Estratégica (Grupos da Região)",
-      "Alinhamento de Identidade Visual"
+    
     ],
     ctaText: "Falar no WhatsApp"
   }
