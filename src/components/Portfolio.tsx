@@ -2,10 +2,12 @@ import React, { useState } from 'react';
 import { PORTFOLIO_ITEMS, PortfolioItem, getWhatsAppUrl } from '../data/siteData.ts';
 
 // Import generated local images
-import imgLashBeauty from '../assets/images/portfolio_lash_beauty_1791040846819.jpg';
-import imgHairSalon from '../assets/images/portfolio_hair_salon_1791040858468.jpg';
-import imgBarbershop from '../assets/images/portfolio_barbershop_1791040867340.jpg';
-
+import imgLashDesigner from '../assets/images/lashdesigner.jpg';
+import imgBarbearia from '../assets/images/barbearia.jpg';
+import imgEsteticista from '../assets/images/esteticista.jpg';
+import imgMaquiadora from '../assets/images/maquiadora.jpg';
+import imgNailDesigner from '../assets/images/naildesigner.jpg';
+import imgSalaoDeBeleza from '../assets/images/salaodebeleza.jpg';
 export const Portfolio: React.FC = () => {
   const [activeItem, setActiveItem] = useState<PortfolioItem | null>(null);
 
