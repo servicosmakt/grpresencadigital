@@ -21,8 +21,7 @@ export const Portfolio: React.FC = () => {
   if (fallbackKey === 'port6') return imgNailDesigner;
   return null;
 };
-  };
-
+  
   return (
     <section id="portfolio" className="py-14 md:py-20 bg-[#F8FAFC] relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
