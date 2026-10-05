@@ -177,7 +177,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Studio de Extensão de Cílios e Sobrancelhas",
     description: "Paleta suave, foco em leveza, delicadeza e agendamento prático para profissionais de cílios e sobrancelhas.",
     imageFallbackKey: "port1",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+    link: "https://modelos.grpresencadigital.site/lashdesigner/",
     accent: "#F43F5E"
   },
   {
@@ -187,7 +187,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Visagismo, Cortes & Tratamentos Capilares",
     description: "Layout sofisticado em tons alabaster e carvão, ideal para especialistas em cabelo e visagismo que buscam alto padrão.",
     imageFallbackKey: "port2",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+    link: "https://modelos.grpresencadigital.site/salaodebeleza/",
     accent: "#D97706"
   },
   {
@@ -197,7 +197,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Alta Conversão e Tabela de Procedimentos",
     description: "Foco total em conversão rápida, tabela de procedimentos clara e chamada direta para agendamento via WhatsApp.",
     imageFallbackKey: "port3",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+    link: "https://modelos.grpresencadigital.site/maquiadora/",
     accent: "#2563EB"
   },
   {
@@ -207,7 +207,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Harmonização, Skincare & Procedimentos",
     description: "Design voltado para clínicas de estética, destacando protocolos com rigor profissional e credibilidade científica.",
     imageFallbackKey: "port4",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+   link: "https://modelos.grpresencadigital.site/esteticista/",
     accent: "#0D9488"
   },
   {
@@ -217,7 +217,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Barbearia Clássica & Moderna",
     description: "Tipografia forte, tons escuros e texturas que transmitem personalidade, estilo autêntico e praticidade.",
     imageFallbackKey: "port5",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+    link: "https://modelos.grpresencadigital.site/barbearia/",
     accent: "#475569"
   },
   {
@@ -227,7 +227,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     subtitle: "Alongamento, Gel & Esmaltação Artística",
     description: "Paletas vibrantes e artísticas para nail designers que expressam autenticidade e atraem clientes de valor.",
     imageFallbackKey: "port6",
-    link: "https://servicosmakt.github.io/gr-presenca-digital/amostras/site1.html",
+    link: "https://modelos.grpresencadigital.site/naildesigner/",
     accent: "#8B5CF6"
   }
 ];
